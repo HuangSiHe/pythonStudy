@@ -1,4 +1,4 @@
-python
+python学习笔记
 ====
 
-python从0开始探索
+python知识点记录
